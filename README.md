@@ -1,4 +1,3 @@
-<img width="1920" height="414" alt="Imagem falando sobre mim" src="https://github.com/user-attachments/assets/3197bdfd-4fc9-46d4-8e17-be89911f1cd8" />
 
 ### Sobre mim
 Desenvolvedor em formação com experiência em **Spring Boot**, **JPA/Hibernate** e bancos de dados **MySQL**, assim como também tecnologias Front End. Atualmente, estou focado em aprimorar minhas habilidades com o objetivo de construir sistemas robustos e eficientes. Meu objetivo é criar soluções que transformam ideias em realidade, ideias que agreguem valor ao usuário. e estou sempre em busca de novos desafios e aprendizados.
@@ -22,16 +21,8 @@ Desenvolvedor em formação com experiência em **Spring Boot**, **JPA/Hibernate
 
 ### Projetos Recentes
 
-- **[Projeto Controle Ponto](https://github.com/renanolv7/project-controle-ponto)** - Projeto Full Stack com Back End em Java + Spring Boot e Flutter no Front End
+- **[Nome projeto](Link_projeto)** - Descrição projeto
   
----
-
-### Estatísticas do GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=renanolv7&show_icons=true&theme=midnight-purple" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanolv7&layout=compact&langs_count=7&theme=midnight-purple" alt="Principais Linguagens" />
-</div>
 
 --- 
 
