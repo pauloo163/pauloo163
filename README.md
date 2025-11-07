@@ -1,6 +1,6 @@
 
 ### Sobre mim
-Desenvolvedor em formação com experiência em **Spring Boot**, **JPA/Hibernate** e bancos de dados **MySQL**, assim como também tecnologias Front End. Atualmente, estou focado em aprimorar minhas habilidades com o objetivo de construir sistemas robustos e eficientes. Meu objetivo é criar soluções que transformam ideias em realidade, ideias que agreguem valor ao usuário. e estou sempre em busca de novos desafios e aprendizados.
+Sou Paulo Cesar, desenvolvedor em formação com experiência em **Spring Boot**, **JPA/Hibernate** e bancos de dados **MySQL**, assim como também tecnologias Front End. Atualmente, estou focado em aprimorar minhas habilidades com o objetivo de construir sistemas robustos e eficientes. Meu objetivo é criar soluções que transformam ideias em realidade, ideias que agreguem valor ao usuário. e estou sempre em busca de novos desafios e aprendizados.
 
 --- 
 
